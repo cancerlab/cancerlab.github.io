@@ -3,11 +3,12 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the Cancer Biology Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Rajdeep Chowdhury, Ph.D. 
+Associate Professor 
+Department of Bio-Sciences
+BITS Pilani
 
-email: eli.zunder (#!) virginia.edu
+email: rajdeep.chowdhury@pilani.bits-pilani.ac.in <br>
+
