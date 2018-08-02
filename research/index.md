@@ -1,50 +1,25 @@
 ---
-title: Research in the Zunder Lab
+title: Research in the Cancer Biology Lab
 layout: default
 group: research
 ---
 
-## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.
+## Our research is directed towards understanding the molecular aspects of drug-resistance with special emphasis on the role of autophagy. In this regard, we are interested in the following:
 
 
-### Our research takes advantage of the close parallels between *in vitro* stem cell differentiation and *in vivo* development. Our *in vitro* experiments can provide insight into stem cell behavior during normal development and disease, and our *in vivo* experiments can provide insight into the derivation of clinically relevant cell types for regenerative therapy.
+### Understanding autophagy regulation under drug stress
+
+Autophagy, especially macroautophagy is specifically reported to be a cellular survival strategy under drug stress. We are interested in understanding signaling molecules regulating autophagy upon chemo-therapeutic stress. We have also developed drug resistant cell lines and tracked regulation of autophagy during such acquisition of resistance. Simultaneously, alteration in developmentally active signaling pathways is analyzed and investigated for their contribution in regulating autophagy. Regulation of Hippo signaling pathway components under drug stress is currently investigated.  
 
 
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/In Vivo In Vitro Parallels.png" alt="In Vivo/In Vitro Parallels">
+### Analyzing tumor stroma interaction
 
+The tumor cells are invariably surrounded by an inflammatory niche. Thus, the stromal components are not just active bystanders in the pathogenesis of solid tumors, but one which play an active role in HCC progression. The tumor microenvironment serves as an innate resistance niche for chemotherapy assault and a physiological barrier against therapy. Hence, in our lab we are analyzing the crosstalk between stromal cells and tumor cells, with special emphasis on role of cytokines and growth factors.
 
-<br><br>
+### Nanoparticulate drugs in therapy and diagnostics
 
-### The central aim of our research is to discover the molecular mechanisms that control stem cell behavior. Specifically, we are working to identify factors that control the progression and branch points of stem cell differentiation.
+Traditional cancer therapy uses highly cytotoxic drugs as chemotherapy. To reduce the off-target toxicity nanotechnology based platforms have emerged as attractive tools in cancer therapy. The nanoparticles can home into the tumor efficiently by using unique leaky vasculature by enhanced permeability and retention effect. Inspired by the need of developing novel biocompatible and biodegradable nanoplatform, the aim of our study is to analyze versatile nanoparticulate compounds for drug delivery and therapy. In collaboration, we are currently in the process of identifying/analyzing the therapeutic effect of nano-particulate drugs/compounds in resistant cancer cells. 
 
+### Mutant p53, role in drug resistance
 
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Progression and Branch Points.png" alt="Progression and Branch Points">
-
-
-<br><br>
-
-### In order to study the complex mixtures of rapidly changing cell types that occur during *in vitro* and *in vivo* differentiation, we use single-cell analysis methods such as mass cytometry, which provides a detailed molecular picture of each cell with a throughput of one million cells per hour.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/CyTOF Overview Diagram.png" alt="CyTOF Overview">
-
-
-<br><br>
-
-### Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Layout.gif" alt="Force-directed Layout">
-
-
-<br><br>
-
-### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Regenerative Medicine Overview.png" alt="Regenerative Medicine Overview">
+p53 is one of the most important tumor suppressors; however in over half of human cancers, p53 is inactivated due to mutations. Mutant p53 possess distinctive activities of their own, often not present in the wild-type p53 protein. This endows the mutant proteins with activities that contribute to tumor progression and chemo-resistance. However, the mechanism by which these mutants bestow cancer cells with chemo-resistant properties has not been extensively studied and deserves research intervention. In our lab, our primary objective is therefore to investigate novel molecular mechanisms of mut-p53-mediated chemo-resistance.
